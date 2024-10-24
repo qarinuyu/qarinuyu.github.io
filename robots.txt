@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://qarinuyu.github.io/sitemap/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/AsU/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/VLs/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/tPl/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/CiN/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/aOF/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/jWB/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/wrZ/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/lHc/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/EwI/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/UjV/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/qkd/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/HUA/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/YNF/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/Cvy/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/igp/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/gwZ/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/YkU/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/TVr/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/dKi/sitemap_index.qarinuyu
+Sitemap: https://qarinuyu.github.io/sKB/sitemap_index.qarinuyu
